@@ -3,7 +3,7 @@ import React from 'react'
 export default function practice() {
   return (
     <div>
-      Hakuna Matata!g
+      This is the first change I make!
     </div>
   )
 }
